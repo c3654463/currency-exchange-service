@@ -1,0 +1,15 @@
+venv/
+*.pyc
+__pycache__/
+.env
+*.log
+.git/
+setup_project.py
+README.md
+*.png
+*.jpg
+*.pdf
+*.docx
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
